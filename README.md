@@ -101,5 +101,5 @@ This project aims to predict user churn using engineered features derived from u
 ---
 
 ## **Contact**
-For any questions or suggestions, please feel free to contact the project maintainer.
+For any questions or suggestions, please feel free to contact. And I will complete this project in upcoming next 5-7 day currenty I do exam prepration. 
 
