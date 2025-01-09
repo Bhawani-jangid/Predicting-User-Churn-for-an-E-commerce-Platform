@@ -92,11 +92,11 @@ This project aims to predict user churn using engineered features derived from u
    ```
 2. Place the dataset (`cleaned_events.csv`) in the project directory.
 3. Run the Jupyter Notebook files in sequence:
-   - `01_preprocessing.ipynb`
-   - `02_eda.ipynb`
-   - `03_feature_engineering.ipynb`
-   - `04_modeling.ipynb`
-4. Explore interpretability results in `05_interpretability.ipynb`.
+   - `FirstStep.ipynb`
+   - `SecondFile.ipynb`
+   - `ThridFile.ipynb`
+   - `ForthFile.ipynb`
+4. Explore interpretability results.
 
 ---
 
